@@ -24,7 +24,7 @@ const server = http.createServer(function (req, res) {
   res.end(`
     <html>
       <body style="background: black; text-align: center; color: cyan">
-        <h1>My First nodejs Server Task </h1>
+        <h1>My First Node.js Server Task</h1>
         <p>I'm loving it</p> 
       </body
     </html>    
